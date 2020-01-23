@@ -1,36 +1,28 @@
 # Blogs
 MyBlog
 
+### 简介
 发现一直以学习之名玩弄搭建各种系统，止于好看功能齐全，缺难于记录技术沉淀。
 
-所以用最简单的方式开始...
+所以用最简单的方式开始...Github的 Issues + Projects。
 
 重新记录下：
 1. 梳理自己的知识体系
 2. 通过记录和外界交流
 3. 专注于技术总结
 
-### 简介
+### 分类
 
-折腾过挺多博客的，发现直接用Github的 Issues + Projects，写技术博客能够更加专心，后面就持续在此更新博客了～
+主要划分为下面几大类别，可以点击进入：
 
-### 博客分类
+* [编译器](https://github.com/leozp/Blogs/projects/1)
+* [Linux & Android](https://github.com/leozp/Blogs/projects/2)
+* [AI框架, 工具及部署](https://github.com/leozp/Blogs/projects/3)
+* [开发工具](https://github.com/leozp/Blogs/projects/4)
+* [读书笔记](https://github.com/leozp/Blogs/projects/5)
 
-博客主要划分为下面几大类别，可以点击进入：
-
-* [Java Web](https://github.com/johnnian/Blog/projects/1)
-* [分布式架构](https://github.com/johnnian/Blog/projects/2)
-* [数据库](https://github.com/johnnian/Blog/projects/3)
-* [开发工具](https://github.com/johnnian/Blog/projects/4)
-* [客户端Apps](https://github.com/johnnian/Blog/projects/5)
-* [读书笔记](https://github.com/johnnian/Blog/projects/6)
-* [Linux & Docker](https://github.com/johnnian/Blog/projects/7)
-* [大数据技术](https://github.com/johnnian/Blog/projects/8)
-* [人工智能](https://github.com/johnnian/Blog/projects/10)
-* [脚本语言](https://github.com/johnnian/Blog/projects/11)
-
-另外，如果想看文章列表，[点击这里跳转到Issues查看](https://github.com/johnnian/Blog/issues)
+另外，如果想看文章列表，[点击这里跳转到Issues查看](https://github.com/leozp/Blogs/issues)
 
 ### 关于我
 
-Christian、Guitar Player、爱折腾的软件工程师～
+Leo、初级跑者、Ukelele Player、爱折腾的软件工程师～
